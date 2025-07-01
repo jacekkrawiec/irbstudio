@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+irbstudio/__init__.py
+irbstudio/data.py
+irbstudio/studio.py
+irbstudio/utils.py
+irbstudio.egg-info/PKG-INFO
+irbstudio.egg-info/SOURCES.txt
+irbstudio.egg-info/dependency_links.txt
+irbstudio.egg-info/top_level.txt
