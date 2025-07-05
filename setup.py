@@ -1,9 +1,9 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="irbstudio",
+    name="crmstudio",
     version="0.1.0",
-    description="Monitoring and validation toolkit for credit risk models under the IRB framework",
+    description="Monitoring and validation toolkit for credit risk models under the IRB and IFRS9 frameworks",
     author="Jacek Krawiec",
     author_email="jacekkrawiec@example.com", #to be replaced
     url="https://github.com/yourusername/irbstudio", #to be replaced
