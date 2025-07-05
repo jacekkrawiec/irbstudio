@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="crmstudio",
-    version="0.1.0",
+    version="0.0.1",
     description="Monitoring and validation toolkit for credit risk models under the IRB and IFRS9 frameworks",
     author="Jacek Krawiec",
     author_email="jacekkrawiec@example.com", #to be replaced
