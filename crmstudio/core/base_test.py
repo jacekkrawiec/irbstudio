@@ -9,7 +9,7 @@ class TestResult:
     passed: bool 
     message: str = ""
 
-class IRBTest(ABC):
+class BaseTest(ABC):
     """
     Abstract base class for credit risk models testing.
     Each tests implements run method, taking dataset and returning TestResult 

@@ -1,0 +1,27 @@
+#IFRS9 columns
+ifrs9_approach: 'direct_ECL' #'component_based'
+ifrs9_stage: 'stage'
+ifrs9_ecl_12m_predicted: 'ecl'
+ifrs9_ecl_lifetime_predicted: 'ecl_lt'
+ifrs9_pd_12m_predicted: 'ifrs9_pd_12m'
+ifrs9_pd_lifetime_predicted: 'ifrs9_pd_lifetime'
+ifrs9_lgd_predicted: 'ifrs9_lgd'
+ifrs9_ead_predicted: 'ifrs9_ead'
+
+#ID columns
+facility_id: 'facility_id'
+default_id: 'default_id'
+
+#DoD columns
+default_date: 'default_date'
+default_end_date: 'default_end_date'
+default_ind: 'default_ind'
+
+#
+reporting_date: 'reporting_date'
+
+
+
+
+
+
